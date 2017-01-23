@@ -1,0 +1,37 @@
+p {
+    margin-top: 50px;
+    margin-right: 150px;
+    margin-bottom: 50px;
+    margin-left: 80px;
+}
+h1 {
+    color: blue;
+    font-family: sans-serif;
+    margin-left: 80px;
+}
+h3 {
+    color: blue;
+    font-family: sans-serif;
+    margin-left: 80px;
+    }
+#c01 {
+    font-style: italic;
+}
+#c02 {
+    margin: 75px;
+    image-orientation: 600px;
+}
+.design {
+    font-family: cursive;
+    color: maroon;
+}
+body {
+    padding: 30px;
+}
+footer {
+    color: purple;
+    font-family: cursive;
+}
+.end {
+    font-size: 15px;
+}
